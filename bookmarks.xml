@@ -1,21 +1,23 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <bookmarks>
    <group name="root">
       <group name="Techno / Electronic">
-         <bookmark name="NoiseFM" url="http://noisefm.ru:8000/play.m3u" />
+         <bookmark name="NoiseFM" url="http://noisefm.ru:8000/play.m3u"/>
       </group>
       <group name="Zet">
-         <bookmark name="Zet Love" url="http://zetlov-01.cdn.eurozet.pl:8440/listen.pls" />
-         <bookmark name="Zet Dance" url="http://zetdan-02.cdn.eurozet.pl:8416/listen.pls" />
-         <bookmark name="Zet Hot" url="http://zethot-01.cdn.eurozet.pl:8430/listen.pls" />
-         <bookmark name="Zet Classic Rock" url="http://zetcrk-02.cdn.eurozet.pl:8414/listen.pls" />
-         <bookmark name="Zet Rock" url="http://zetrok-01.cdn.eurozet.pl:8448/listen.pls" />
-         <bookmark name="Zet Party" url="http://zetpar-02.cdn.eurozet.pl:8444/listen.pls" />
+         <bookmark name="Zet Love" url="http://zetlov-01.cdn.eurozet.pl:8440/listen.pls"/>
+         <bookmark name="Zet Dance" url="http://zetdan-02.cdn.eurozet.pl:8416/listen.pls"/>
+         <bookmark name="Zet Hot" url="http://zethot-01.cdn.eurozet.pl:8430/listen.pls"/>
+         <bookmark name="Zet Classic Rock" url="http://zetcrk-02.cdn.eurozet.pl:8414/listen.pls"/>
+         <bookmark name="Zet Rock" url="http://zetrok-01.cdn.eurozet.pl:8448/listen.pls"/>
+         <bookmark name="Zet Party" url="http://zetpar-02.cdn.eurozet.pl:8444/listen.pls"/>
       </group>
       <group name="RMF">
-         <bookmark name="RMF 90s" url="http://www.miastomuzyki.pl/n/rmf90s.pls" />
-         <bookmark name="RMF 2000s" url="http://www.miastomuzyki.pl/n/rmf2000.pls" />
-         <bookmark name="RMF Punk" url="http://www.miastomuzyki.pl/n/rmfpunk.pls" />
-      </group>
+         <bookmark name="RMF 70s" url="http://www.miastomuzyki.pl/n/rmf70s.pls"/>
+         <bookmark name="RMF 80s" url="http://www.miastomuzyki.pl/n/rmf80s.pls"/>
+         <bookmark name="RMF 90s" url="http://www.miastomuzyki.pl/n/rmf90s.pls"/>
+         <bookmark name="RMF 2000s" url="http://www.miastomuzyki.pl/n/rmf2000.pls"/>
+         <bookmark name="RMF Chill" url="http://www.miastomuzyki.pl/n/rmfchillout.pls"/>
+         <bookmark name="RMF Love" url="http://www.miastomuzyki.pl/n/rmflove.pls"/>
+       </group>
    </group>
 </bookmarks>
