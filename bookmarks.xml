@@ -3,28 +3,146 @@
         <group name="Jazz">
             <bookmark name="Smooth Jazz" url="http://smoothjazz.com/streams/smoothjazz_128.pls"/>
             <bookmark name="Sonic Universe" url="http://somafm.com/sonicuniverse.pls"/>
+            <bookmark name="Smooth Jazz" url="http://79.120.39.202:9017/"/>
+            <bookmark name="Jazz Funk" url="http://79.120.39.202:9047/"/>
+            <bookmark name="Nu Jazz/Future Jazz" url="http://79.111.14.76:9011/"/>
+            <bookmark name="Free Jazz" url="http://79.111.14.76:9095/"/>
+            <bookmark name="Contemporary Jazz" url="http://79.111.119.111:9017/"/>
+            <bookmark name="Soul Jazz" url="http://79.111.14.76:9121/"/>
+            <bookmark name="Modern Creative" url="http://79.120.77.11:9133/"/>
+            <bookmark name="Swing" url="http://79.120.39.202:9019/"/>
+            <bookmark name="Vocal Jazz" url="http://79.120.39.202:9083/"/>
+            <bookmark name="Hard Bop" url="http://79.111.14.76:9047/"/>
+            <bookmark name="Bossa Nova" url="http://79.111.14.76:9105/"/>
+            <bookmark name="Latin/Afro-Cuban Jazz" url="http://79.111.119.111:9055/"/>
+            <bookmark name="Jazz Manouche/Gypsy Jazz" url="http://79.120.77.11:9129/"/>
+            <bookmark name="Jazz Pop" url="http://79.120.39.202:9135/"/>
+            <bookmark name="Big Band" url="http://79.120.39.202:9023/"/>
+            <bookmark name="Cool Jazz" url="http://79.120.39.202:9085/"/>
+            <bookmark name="Post Bop" url="http://79.111.14.76:9045/"/>
+            <bookmark name="Piano Jazz/Stride" url="http://79.111.119.111:9059/"/>
+            <bookmark name="Avant-Garde Jazz/Free Improvisation" url="http://79.111.119.111:9101/"/>
+            <bookmark name="Dark/Doom/Noir/Funeral Jazz" url="http://79.120.39.202:9137/"/>
+            <bookmark name="Dixieland" url="http://79.120.39.202:9039/"/>
+            <bookmark name="Acid Jazz" url="http://79.111.14.76:9001/"/>
+            <bookmark name="Mainstream Jazz" url="http://79.111.14.76:9085/"/>
+            <bookmark name="Jazz Fusion" url="http://79.111.119.111:9009/"/>
+            <bookmark name="Jazz" url="http://79.120.77.11:9005/"/>
+            <bookmark name="Guitar Jazz" url="http://79.120.77.11:9131/"/>
         </group>
         <group name="Latin">
             <bookmark name="Top Latino Radio" url="http://online.radiodifusion.net:8020/listen.pls"/>
-        </group>
-        <group name="Classic Rock">
-            <bookmark name=".977 Classic Rock" url="http://www.977music.com/tunein/web/classicrock.asx"/>
-            <bookmark name="Covers" url="http://somafm.com/covers.pls"/>
         </group>
         <group name="Classical">
             <bookmark name="KDFC" url="http://provisioning.streamtheworld.com/pls/KDFCFM.pls"/>
             <bookmark name="Classic FM" url="http://media-ice.musicradio.com/ClassicFMMP3.m3u"/>
             <bookmark name="WCPE" url="http://www.ibiblio.org/wcpe/wcpe.pls"/>
             <bookmark name="CINEMIX" url="http://cinemix.us/cine.asx"/>
+            <bookmark name="Symphony" url="http://79.111.14.76:9079/"/>
+            <bookmark name="Classical Piano/Harpsichord" url="http://79.120.39.202:9069/"/>
+            <bookmark name="Classical Symphonic Music" url="http://79.120.77.11:9019/"/>
+            <bookmark name="Classical Choral/Vocal Music" url="http://79.120.39.202:9053/"/>
+            <bookmark name="Organ Music" url="http://79.120.77.11:9051/"/>
+            <bookmark name="Classical Baroque" url="http://79.111.14.76:9113/"/>
+            <bookmark name="Opera" url="http://79.120.39.202:9057/"/>
+            <bookmark name="Strings" url="http://79.120.39.202:9133/"/>
         </group>
-        <group name="Pop / Rock">
+        <group name="Pop">
             <bookmark name="Radio Paradise" url="http://www.radioparadise.com/musiclinks/rp_128.m3u"/>
             <bookmark name=".977 The Hitz Channel" url="http://www.977music.com/tunein/web/hitz.asx"/>
             <bookmark name="Indie Pop Rocks!" url="http://somafm.com/indiepop.pls"/>
             <bookmark name="PopTron" url="http://somafm.com/poptron.pls"/>
+            <bookmark name="Classical Crossover" url="http://79.120.77.11:9055/"/>
+            <bookmark name="Russian Pop Music" url="http://79.120.77.11:9027/"/>
+            <bookmark name="Pop Music 80&#039;s" url="http://79.120.39.202:9103/"/>
+            <bookmark name="Nu Disco" url="http://79.111.119.111:9081/"/>
+            <bookmark name="Pop Ballads" url="http://79.120.77.11:9061/"/>
+            <bookmark name="Pop Music" url="http://79.120.77.11:9017/"/>
+            <bookmark name="Italo Disco" url="http://79.111.119.111:9013/"/>
+            <bookmark name="J-Pop" url="http://79.111.119.111:9065/"/>
+            <bookmark name="French Chanson" url="http://79.111.14.76:9049/"/>
+            <bookmark name="K-Pop" url="http://79.111.119.111:9097/"/>
+            <bookmark name="Eurodance" url="http://79.120.39.202:9003/"/>
+            <bookmark name="Euro Disco" url="http://79.111.119.111:9029/"/>
+            <bookmark name="Disco" url="http://79.120.77.11:9039/"/>
+            <bookmark name="Russian Pop Music 80&#039;s" url="http://79.120.77.11:9015/"/>
+            <bookmark name="Arabic Pop Music" url="http://79.120.39.202:9087/"/>
+            <bookmark name="Latin Pop" url="http://79.111.119.111:9051/"/>
+            <bookmark name="Dance Pop" url="http://79.120.77.11:9053/"/>
+        </group>
+        <group name="Rock">
+            <bookmark name=".977 Classic Rock" url="http://www.977music.com/tunein/web/classicrock.asx"/>
+            <bookmark name="Covers" url="http://somafm.com/covers.pls"/>
+            <bookmark name="Psychobilly" url="http://79.111.119.111:9049/"/>
+            <bookmark name="Indie/Twee Pop" url="http://79.111.119.111:9031/"/>
+            <bookmark name="Folk Rock" url="http://79.111.14.76:9097/"/>
+            <bookmark name="Rock&amp;Roll" url="http://79.120.77.11:9041/"/>
+            <bookmark name="Hard Rock" url="http://79.120.77.11:9109/"/>
+            <bookmark name="Russian Rock/Bard Rock" url="http://79.120.77.11:9029/"/>
+            <bookmark name="Glam Rock/Metal" url="http://79.120.39.202:9055/"/>
+            <bookmark name="Instrumental Rock" url="http://79.120.39.202:9077/"/>
+            <bookmark name="Dream Pop" url="http://79.111.14.76:9039/"/>
+            <bookmark name="J-Rock" url="http://79.111.119.111:9067/"/>
+            <bookmark name="Jazz Rock" url="http://79.111.119.111:9007/"/>
+            <bookmark name="Progressive Rock" url="http://79.111.119.111:9121/"/>
+            <bookmark name="Surf Rock" url="http://79.111.119.111:9045/"/>
+            <bookmark name="Psychedelic Rock" url="http://79.111.119.111:9027/"/>
+            <bookmark name="Darkwave/Ethereal" url="http://79.111.14.76:9073/"/>
+            <bookmark name="Punk Rock" url="http://79.120.77.11:9043/"/>
+            <bookmark name="Grunge" url="http://79.120.39.202:9011/"/>
+            <bookmark name="Britpop" url="http://79.120.39.202:9041/"/>
+            <bookmark name="New Wave" url="http://79.120.39.202:9065/"/>
+            <bookmark name="Art Rock" url="http://79.120.39.202:9107/"/>
+            <bookmark name="Gothic Rock" url="http://79.111.14.76:9041/"/>
+            <bookmark name="Post Grunge" url="http://79.111.119.111:9073/"/>
+            <bookmark name="Garage Rock" url="http://79.111.119.111:9093/"/>
+            <bookmark name="Oi!/Street Punk" url="http://79.111.119.111:9125/"/>
+            <bookmark name="Rockabilly" url="http://79.111.14.76:9107/"/>
+            <bookmark name="Stoner Rock" url="http://79.111.119.111:9025/"/>
+            <bookmark name="AOR/Melodic Hard Rock" url="http://79.111.14.76:9051/"/>
+            <bookmark name="Rock Ballads" url="http://79.120.77.11:9059/"/>
+            <bookmark name="Blues Rock" url="http://79.120.39.202:9013/"/>
+            <bookmark name="Russian Punk Rock" url="http://79.120.77.11:9045/"/>
+            <bookmark name="Symphonic Rock" url="http://79.120.39.202:9067/"/>
+            <bookmark name="Southern Rock" url="http://79.111.14.76:9009/"/>
+            <bookmark name="Post Rock" url="http://79.111.14.76:9043/"/>
+            <bookmark name="Shoegazing" url="http://79.111.119.111:9077/"/>
+            <bookmark name="Neo-Progressive Rock" url="http://79.111.119.111:9095/"/>
+            <bookmark name="Space Rock" url="http://79.111.119.111:9035/"/>
+            <bookmark name="Russian Folk Rock" url="http://79.111.14.76:9099/"/>
+            <bookmark name="Alternative Rock" url="http://79.120.39.202:9037/"/>
+            <bookmark name="Pop Rock" url="http://79.120.77.11:9105/"/>
+            <bookmark name="Indie Rock" url="http://79.120.39.202:9033/"/>
+            <bookmark name="Classic Rock/Rock" url="http://79.120.77.11:9007/"/>
+            <bookmark name="Post Punk" url="http://79.120.39.202:9071/"/>
+            <bookmark name="Pop Punk" url="http://79.111.14.76:9035/"/>
+            <bookmark name="Country Rock" url="http://79.111.119.111:9041/"/>
+            <bookmark name="Krautrock" url="http://79.111.119.111:9089/"/>
+            <bookmark name="Indie Folk" url="http://79.111.14.76:9117/"/>
         </group>
         <group name="Oldies">
             <bookmark name="WNAR" url="http://live.wnar-am.com:8500/listen.pls"/>
+        </group>
+        <group name="Folk">
+            <bookmark name="Indian Folk/Ethnic" url="http://79.111.14.76:9021/"/>
+            <bookmark name="Russian Folk Music" url="http://79.120.77.11:9057/"/>
+            <bookmark name="Flamenco" url="http://79.111.14.76:9055/"/>
+            <bookmark name="Tango" url="http://79.120.39.202:9117/"/>
+            <bookmark name="Middle East Music" url="http://79.111.119.111:9133/"/>
+            <bookmark name="Celtic Music" url="http://79.111.14.76:9087/"/>
+            <bookmark name="Native American" url="http://79.111.119.111:9071/"/>
+            <bookmark name="Traditional Latin Music" url="http://79.120.39.202:9049/"/>
+            <bookmark name="Far East Traditional Music" url="http://79.111.119.111:9131/"/>
+        </group>
+        <group name="Rap">
+            <bookmark name="Hip-Hop" url="http://79.120.77.11:9067/"/>
+            <bookmark name="West Coast/Gangsta Rap/G-Funk" url="http://79.120.39.202:9059/"/>
+            <bookmark name="Russian Rap" url="http://79.120.77.11:9023/"/>
+            <bookmark name="East Coast Rap" url="http://79.111.14.76:9111/"/>
+            <bookmark name="Rap" url="http://79.120.77.11:9031/"/>
+            <bookmark name="Underground Rap" url="http://79.111.14.76:9115/"/>
+            <bookmark name="Abstract Hip-Hop" url="http://79.111.14.76:9093/"/>
+            <bookmark name="Southern Rap/Hip-Hop/Crunk" url="http://79.111.119.111:9129/"/>
         </group>
         <group name="Chill">
             <bookmark name="Lounge Radio" url="http://www.lounge-radio.com/listen128.m3u"/>
@@ -36,6 +154,10 @@
         <group name="Country">
             <bookmark name="Boot Liquor" url="http://somafm.com/bootliquor.pls"/>
             <bookmark name="Country 108" url="http://www.country108.com/listen.pls"/>
+            <bookmark name="Alternative Country" url="http://79.111.119.111:9103/"/>
+            <bookmark name="Bluegrass" url="http://79.111.14.76:9027/"/>
+            <bookmark name="Country" url="http://79.120.77.11:9049/"/>
+            <bookmark name="Country Pop" url="http://79.111.119.111:9123/"/>
         </group>
         <group name="Techno / Electronic">
             <bookmark name="Drone Zone" url="http://somafm.com/dronezone.pls"/>
@@ -44,14 +166,161 @@
             <bookmark name="Black Rock FM" url="http://somafm.com/brfm.pls"/>
             <bookmark name="New Dance Radio" url="http://jbstream.net/tunein.php/blackoutworm/playlist.asx"/>
             <bookmark name="DubStep Beyond" url="http://somafm.com/play/dubstep32"/>
+            <bookmark name="Uplifting Trance" url="http://79.111.119.111:9019/"/>
+            <bookmark name="Electro House" url="http://79.111.14.76:9075/"/>
+            <bookmark name="Hardstyle" url="http://79.111.14.76:9063/"/>
+            <bookmark name="Progressive Trance" url="http://79.120.39.202:9025/"/>
+            <bookmark name="Russian Club Dance" url="http://79.120.77.11:9033/"/>
+            <bookmark name="Goa Trance" url="http://79.120.39.202:9105/"/>
+            <bookmark name="Lo-Fi" url="http://79.111.14.76:9017/"/>
+            <bookmark name="Ambient Dub" url="http://79.111.14.76:9037/"/>
+            <bookmark name="Techno" url="http://79.120.77.11:9073/"/>
+            <bookmark name="Ambient" url="http://79.111.119.111:9023/"/>
+            <bookmark name="Electro" url="http://79.111.119.111:9063/"/>
+            <bookmark name="Spacesynth" url="http://79.120.39.202:9111/"/>
+            <bookmark name="Neurofunk/Technoid/Techstep" url="http://79.111.119.111:9117/"/>
+            <bookmark name="Drone Ambient" url="http://79.111.119.111:9135/"/>
+            <bookmark name="Electroclash" url="http://79.120.39.202:9129/"/>
+            <bookmark name="Euro House" url="http://79.111.119.111:9015/"/>
+            <bookmark name="Traditional Electronic" url="http://79.111.14.76:9069/"/>
+            <bookmark name="Dub Techno" url="http://79.120.39.202:9009/"/>
+            <bookmark name="Dream Trance" url="http://79.120.39.202:9029/"/>
+            <bookmark name="Deep House" url="http://79.120.39.202:9035/"/>
+            <bookmark name="IDM (Intelligent Dance Music)" url="http://79.111.14.76:9003/"/>
+            <bookmark name="Full On" url="http://79.111.14.76:9019/"/>
+            <bookmark name="Trance" url="http://79.120.77.11:9021/"/>
+            <bookmark name="Chill Out" url="http://79.111.14.76:9067/"/>
+            <bookmark name="Chiptune" url="http://79.111.119.111:9037/"/>
+            <bookmark name="Soulful House" url="http://79.111.119.111:9085/"/>
+            <bookmark name="Industrial" url="http://79.111.14.76:9119/"/>
+            <bookmark name="Downtempo" url="http://79.120.77.11:9113/"/>
+            <bookmark name="Grime" url="http://79.120.77.11:9125/"/>
+            <bookmark name="Progressive Psytrance" url="http://79.120.39.202:9131/"/>
+            <bookmark name="Minimal Tech House" url="http://79.111.119.111:9003/"/>
+            <bookmark name="Dark Electro" url="http://79.120.39.202:9091/"/>
+            <bookmark name="Hardcore Techno" url="http://79.120.39.202:9001/"/>
+            <bookmark name="Vocal Trance" url="http://79.120.39.202:9031/"/>
+            <bookmark name="Breakbeat/Big Beat" url="http://79.120.39.202:9051/"/>
+            <bookmark name="EBM (Electronic Body Music)" url="http://79.111.14.76:9005/"/>
+            <bookmark name="Psybient/Ambient Psytrance/Ambient Goa/Psychill/Psydub" url="http://79.111.14.76:9023/"/>
+            <bookmark name="New Age" url="http://79.120.77.11:9047/"/>
+            <bookmark name="Lounge" url="http://79.111.14.76:9059/"/>
+            <bookmark name="Dark/Neo/Apocalyptic Folk" url="http://79.111.119.111:9053/"/>
+            <bookmark name="Psytrance" url="http://79.111.119.111:9091/"/>
+            <bookmark name="Indie Electronic" url="http://79.111.119.111:9111/"/>
+            <bookmark name="Happy/UK Hardcore" url="http://79.120.77.11:9123/"/>
+            <bookmark name="Retrowave/Synthwave/Dreamwave" url="http://79.120.39.202:9125/"/>
+            <bookmark name="Glitch/Glitch-Hop" url="http://79.111.14.76:9129/"/>
+            <bookmark name="Space Music" url="http://79.111.119.111:9105/"/>
+            <bookmark name="Minimal Techno" url="http://79.120.39.202:9005/"/>
+            <bookmark name="Dubstep" url="http://79.120.39.202:9015/"/>
+            <bookmark name="Drum&amp;Bass" url="http://79.111.14.76:9065/"/>
+            <bookmark name="Industrial/Dark/Ritual Ambient" url="http://79.120.39.202:9095/"/>
+            <bookmark name="Trip-Hop" url="http://79.111.14.76:9013/"/>
+            <bookmark name="Synthpop/Electropop/Technopop" url="http://79.120.77.11:9103/"/>
+            <bookmark name="House" url="http://79.120.77.11:9069/"/>
+            <bookmark name="Progressive House" url="http://79.111.119.111:9021/"/>
+            <bookmark name="Dark Psytrance" url="http://79.111.119.111:9057/"/>
+            <bookmark name="Club Dance" url="http://79.111.119.111:9099/"/>
+            <bookmark name="Intelligent/Liquid Funk" url="http://79.111.119.111:9115/"/>
+            <bookmark name="Electro-Industrial" url="http://79.111.119.111:9127/"/>
+            <bookmark name="Futurepop" url="http://79.120.39.202:9127/"/>
+            <bookmark name="NoiseFM" url="http://noisefm.ru:8000/play.m3u"/>
         </group>
         <group name="Community">
             <bookmark name="Jupiter Broadcast" url="http://jblive.fm/"/>
             <bookmark name="WCRS LPFM Columbus" url="http://sh4.audio-stream.com/tunein.php/pleonard/playlist.pls"/>
             <bookmark name="WBEZ" url="http://wbez.ic.llnwd.net/stream/wbez_91_5_fm.pls"/>
         </group>
-        <group name="Techno / Electronic">
-            <bookmark name="NoiseFM" url="http://noisefm.ru:8000/play.m3u"/>
+        <group name="Blues">
+            <bookmark name="Acoustic Blues" url="http://79.111.14.76:9071/"/>
+            <bookmark name="Soul/Neo Soul" url="http://79.120.39.202:9061/"/>
+            <bookmark name="Funk" url="http://79.111.119.111:9061/"/>
+            <bookmark name="Harmonica Blues" url="http://79.120.39.202:9081/"/>
+            <bookmark name="Country/Folk Blues" url="http://79.120.77.11:9121/"/>
+            <bookmark name="Chicago Blues" url="http://79.111.14.76:9091/"/>
+            <bookmark name="Heavy/Hard Blues" url="http://79.120.77.11:9119/"/>
+            <bookmark name="Blues" url="http://79.120.77.11:9013/"/>
+            <bookmark name="Electric/Modern Electric Blues" url="http://79.111.14.76:9007/"/>
+            <bookmark name="Soul Blues" url="http://79.111.14.76:9123/"/>
+        </group>
+        <group name="Reggae">
+            <bookmark name="Reggae" url="http://79.120.39.202:9063/"/>
+            <bookmark name="Ska" url="http://79.111.119.111:9043/"/>
+            <bookmark name="Dub" url="http://79.111.14.76:9029/"/>
+            <bookmark name="Ska Punk/Core" url="http://79.111.119.111:9039/"/>
+            <bookmark name="Dancehall/Raggamuffin" url="http://79.111.14.76:9057/"/>
+            <bookmark name="Roots Reggae" url="http://79.111.119.111:9047/"/>
+        </group>
+        <group name="Metal">
+            <bookmark name="Pagan Metal" url="http://79.111.119.111:9069/"/>
+            <bookmark name="Neoclassical Metal" url="http://79.111.119.111:9033/"/>
+            <bookmark name="Symphonic Black Metal" url="http://79.111.119.111:9005/"/>
+            <bookmark name="Deathcore/Melodic Deathcore" url="http://79.111.14.76:9053/"/>
+            <bookmark name="Groove Metal" url="http://79.120.39.202:9045/"/>
+            <bookmark name="Symphonic Metal" url="http://79.120.77.11:9097/"/>
+            <bookmark name="Death Doom Metal" url="http://79.120.39.202:9007/"/>
+            <bookmark name="Dark Metal" url="http://79.111.119.111:9083/"/>
+            <bookmark name="Doom Meatl" url="http://79.111.14.76:9109/"/>
+            <bookmark name="Post Metal" url="http://79.120.39.202:9119/"/>
+            <bookmark name="Crust Punk/Neocrust" url="http://79.120.39.202:9123/"/>
+            <bookmark name="Progressive Black/Post-Black/Blackgaze" url="http://79.111.14.76:9131/"/>
+            <bookmark name="Black Metal" url="http://79.120.77.11:9003/"/>
+            <bookmark name="Death Metal" url="http://79.120.77.11:9083/"/>
+            <bookmark name="Progressive Death Metal" url="http://79.111.119.111:9001/"/>
+            <bookmark name="Nu Metal" url="http://79.111.14.76:9033/"/>
+            <bookmark name="Rapcore" url="http://79.120.39.202:9043/"/>
+            <bookmark name="Sludge Metal" url="http://79.120.77.11:9087/"/>
+            <bookmark name="Power Metal" url="http://79.120.77.11:9099/"/>
+            <bookmark name="Metalcore/Melodic Metalcore" url="http://79.120.39.202:9027/"/>
+            <bookmark name="Post Hardcore" url="http://79.111.119.111:9087/"/>
+            <bookmark name="Black Death Metal" url="http://79.111.14.76:9103/"/>
+            <bookmark name="Instrumental Metal" url="http://79.111.119.111:9113/"/>
+            <bookmark name="Grindcore" url="http://79.120.77.11:9089/"/>
+            <bookmark name="Avant-Garde Metal" url="http://79.111.14.76:9031/"/>
+            <bookmark name="Progressive Metal" url="http://79.120.77.11:9093/"/>
+            <bookmark name="Heavy Metal" url="http://79.111.14.76:9061/"/>
+            <bookmark name="Hardcore/Melodic Hardcore" url="http://79.111.14.76:9081/"/>
+            <bookmark name="Folk Metal" url="http://79.120.39.202:9097/"/>
+            <bookmark name="Gothic Metal" url="http://79.120.77.11:9037/"/>
+            <bookmark name="Stoner Metal" url="http://79.120.77.11:9089/"/>
+            <bookmark name="Thrash Metal/Crossover Thrash" url="http://79.120.77.11:9101/"/>
+            <bookmark name="Brutal/Slamming Brutal Death Metal" url="http://79.111.119.111:9075/"/>
+            <bookmark name="Speed Metal" url="http://79.111.119.111:9107/"/>
+            <bookmark name="Drone/Drone Doom Metal" url="http://79.120.39.202:9113/"/>
+            <bookmark name="Emocore/Screamo/Emo Violence" url="http://79.111.119.111:9119/"/>
+            <bookmark name="Funeral Doom Metal" url="http://79.120.77.11:9085/"/>
+            <bookmark name="Depressive Black Metal" url="http://79.111.119.111:9011/"/>
+            <bookmark name="Viking Metal" url="http://79.111.14.76:9077/"/>
+            <bookmark name="Industrial Metal/Cyber Metal" url="http://79.120.39.202:9075/"/>
+            <bookmark name="Alternative Metal" url="http://79.120.77.11:9035/"/>
+            <bookmark name="Melodic Death Metal" url="http://79.120.77.11:9091/"/>
+            <bookmark name="Technical Death Metal" url="http://79.120.77.11:9095/"/>
+            <bookmark name="Melodic Black Metal" url="http://79.111.119.111:9079/"/>
+            <bookmark name="Atmospheric/Ambient Black Metal/Dungeon Synth" url="http://79.120.39.202:9093/"/>
+            <bookmark name="Math Metal/Core/Djent" url="http://79.120.39.202:9115/"/>
+            <bookmark name="Female Vocal In Metal Music" url="http://79.111.14.76:9125/"/>
+        </group>
+        <group name="Miscellaneous">
+            <bookmark name="Oldies" url="http://79.120.77.11:9107/"/>
+            <bookmark name="Modern Classical" url="http://79.120.39.202:9099/"/>
+            <bookmark name="Vocal" url="http://79.120.77.11:9063/"/>
+            <bookmark name="Piano" url="http://79.120.77.11:9009/"/>
+            <bookmark name="Experimental/Avant-Garde Music" url="http://79.111.119.111:9109/"/>
+            <bookmark name="Acoustic Guitar" url="http://79.120.39.202:9073/"/>
+            <bookmark name="Neoclassical Music" url="http://79.120.39.202:9101/"/>
+            <bookmark name="Sound Of Nature" url="http://79.111.14.76:9083/"/>
+            <bookmark name="Saxophone" url="http://79.120.77.11:9011/"/>
+            <bookmark name="Misc" url="http://79.120.77.11:9001/"/>
+            <bookmark name="Hammond Organ" url="http://79.120.39.202:9079/"/>
+            <bookmark name="Meditation Music" url="http://79.120.77.11:9081/"/>
+            <bookmark name="Ballroom Dance" url="http://79.111.14.76:9089/"/>
+            <bookmark name="Instrumental Music" url="http://79.120.77.11:9065/"/>
+            <bookmark name="Indian Cinema Music" url="http://79.120.39.202:9089/"/>
+            <bookmark name="Relaxation Music" url="http://79.120.39.202:9109/"/>
+            <bookmark name="Flute" url="http://79.111.14.76:9101/"/>
+            <bookmark name="Easy Listening" url="http://79.111.14.76:9015/"/>
+            <bookmark name="Romantic Music Collection" url="http://79.120.39.202:9121/"/>
         </group>
         <group name="RMF">
             <bookmark name="RMF 70s" url="http://www.miastomuzyki.pl/n/rmf70s.pls"/>
@@ -249,293 +518,10 @@
                 <bookmark name="Latino" url="http://www.polskastacja.pl/play/aac_latino.pls"/>
                 <bookmark name="EDEN (New Age &amp; World Music)" url="http://www.polskastacja.pl/play/aac_eden.pls"/>
             </group>
-            <group name="Eska">
-                <bookmark name="Radio GO" url="http://waw03.ic1.scdn.smcloud.net/t032-1.mp3"/>
-                <bookmark name="Rock Polska" url="http://s5.deb1.scdn.smcloud.net/t008-1.mp3"/>
-            </group>
         </group>
-        <group name="ETHNIC / FOLK / SPIRITUAL MUSIC">
-            <bookmark name="Indian Folk/Ethnic" url="http://79.111.14.76:9021/"/>
-            <bookmark name="Russian Folk Music" url="http://79.120.77.11:9057/"/>
-            <bookmark name="Flamenco" url="http://79.111.14.76:9055/"/>
-            <bookmark name="Tango" url="http://79.120.39.202:9117/"/>
-            <bookmark name="Middle East Music" url="http://79.111.119.111:9133/"/>
-            <bookmark name="Celtic Music" url="http://79.111.14.76:9087/"/>
-            <bookmark name="Native American" url="http://79.111.119.111:9071/"/>
-            <bookmark name="Traditional Latin Music" url="http://79.120.39.202:9049/"/>
-            <bookmark name="Far East Traditional Music" url="http://79.111.119.111:9131/"/>
-        </group>
-        <group name="CLASSICAL">
-            <bookmark name="Symphony" url="http://79.111.14.76:9079/"/>
-            <bookmark name="Classical Piano/Harpsichord" url="http://79.120.39.202:9069/"/>
-            <bookmark name="Classical Symphonic Music" url="http://79.120.77.11:9019/"/>
-            <bookmark name="Classical Choral/Vocal Music" url="http://79.120.39.202:9053/"/>
-            <bookmark name="Organ Music" url="http://79.120.77.11:9051/"/>
-            <bookmark name="Classical Baroque" url="http://79.111.14.76:9113/"/>
-            <bookmark name="Opera" url="http://79.120.39.202:9057/"/>
-            <bookmark name="Strings" url="http://79.120.39.202:9133/"/>
-        </group>
-        <group name="BLUES">
-            <bookmark name="Acoustic Blues" url="http://79.111.14.76:9071/"/>
-            <bookmark name="Soul/Neo Soul" url="http://79.120.39.202:9061/"/>
-            <bookmark name="Funk" url="http://79.111.119.111:9061/"/>
-            <bookmark name="Harmonica Blues" url="http://79.120.39.202:9081/"/>
-            <bookmark name="Country/Folk Blues" url="http://79.120.77.11:9121/"/>
-            <bookmark name="Chicago Blues" url="http://79.111.14.76:9091/"/>
-            <bookmark name="Heavy/Hard Blues" url="http://79.120.77.11:9119/"/>
-            <bookmark name="Blues" url="http://79.120.77.11:9013/"/>
-            <bookmark name="Electric/Modern Electric Blues" url="http://79.111.14.76:9007/"/>
-            <bookmark name="Soul Blues" url="http://79.111.14.76:9123/"/>
-        </group>
-        <group name="COUNTRY">
-            <bookmark name="Alternative Country" url="http://79.111.119.111:9103/"/>
-            <bookmark name="Bluegrass" url="http://79.111.14.76:9027/"/>
-            <bookmark name="Country" url="http://79.120.77.11:9049/"/>
-            <bookmark name="Country Pop" url="http://79.111.119.111:9123/"/>
-        </group>
-        <group name="JAZZ">
-            <bookmark name="Smooth Jazz" url="http://79.120.39.202:9017/"/>
-            <bookmark name="Jazz Funk" url="http://79.120.39.202:9047/"/>
-            <bookmark name="Nu Jazz/Future Jazz" url="http://79.111.14.76:9011/"/>
-            <bookmark name="Free Jazz" url="http://79.111.14.76:9095/"/>
-            <bookmark name="Contemporary Jazz" url="http://79.111.119.111:9017/"/>
-            <bookmark name="Soul Jazz" url="http://79.111.14.76:9121/"/>
-            <bookmark name="Modern Creative" url="http://79.120.77.11:9133/"/>
-            <bookmark name="Swing" url="http://79.120.39.202:9019/"/>
-            <bookmark name="Vocal Jazz" url="http://79.120.39.202:9083/"/>
-            <bookmark name="Hard Bop" url="http://79.111.14.76:9047/"/>
-            <bookmark name="Bossa Nova" url="http://79.111.14.76:9105/"/>
-            <bookmark name="Latin/Afro-Cuban Jazz" url="http://79.111.119.111:9055/"/>
-            <bookmark name="Jazz Manouche/Gypsy Jazz" url="http://79.120.77.11:9129/"/>
-            <bookmark name="Jazz Pop" url="http://79.120.39.202:9135/"/>
-            <bookmark name="Big Band" url="http://79.120.39.202:9023/"/>
-            <bookmark name="Cool Jazz" url="http://79.120.39.202:9085/"/>
-            <bookmark name="Post Bop" url="http://79.111.14.76:9045/"/>
-            <bookmark name="Piano Jazz/Stride" url="http://79.111.119.111:9059/"/>
-            <bookmark name="Avant-Garde Jazz/Free Improvisation" url="http://79.111.119.111:9101/"/>
-            <bookmark name="Dark/Doom/Noir/Funeral Jazz" url="http://79.120.39.202:9137/"/>
-            <bookmark name="Dixieland" url="http://79.120.39.202:9039/"/>
-            <bookmark name="Acid Jazz" url="http://79.111.14.76:9001/"/>
-            <bookmark name="Mainstream Jazz" url="http://79.111.14.76:9085/"/>
-            <bookmark name="Jazz Fusion" url="http://79.111.119.111:9009/"/>
-            <bookmark name="Jazz" url="http://79.120.77.11:9005/"/>
-            <bookmark name="Guitar Jazz" url="http://79.120.77.11:9131/"/>
-        </group>
-        <group name="POP MUSIC">
-            <bookmark name="Classical Crossover" url="http://79.120.77.11:9055/"/>
-            <bookmark name="Russian Pop Music" url="http://79.120.77.11:9027/"/>
-            <bookmark name="Pop Music 80&#039;s" url="http://79.120.39.202:9103/"/>
-            <bookmark name="Nu Disco" url="http://79.111.119.111:9081/"/>
-            <bookmark name="Pop Ballads" url="http://79.120.77.11:9061/"/>
-            <bookmark name="Pop Music" url="http://79.120.77.11:9017/"/>
-            <bookmark name="Italo Disco" url="http://79.111.119.111:9013/"/>
-            <bookmark name="J-Pop" url="http://79.111.119.111:9065/"/>
-            <bookmark name="French Chanson" url="http://79.111.14.76:9049/"/>
-            <bookmark name="K-Pop" url="http://79.111.119.111:9097/"/>
-            <bookmark name="Eurodance" url="http://79.120.39.202:9003/"/>
-            <bookmark name="Euro Disco" url="http://79.111.119.111:9029/"/>
-            <bookmark name="Disco" url="http://79.120.77.11:9039/"/>
-            <bookmark name="Russian Pop Music 80&#039;s" url="http://79.120.77.11:9015/"/>
-            <bookmark name="Arabic Pop Music" url="http://79.120.39.202:9087/"/>
-            <bookmark name="Latin Pop" url="http://79.111.119.111:9051/"/>
-            <bookmark name="Dance Pop" url="http://79.120.77.11:9053/"/>
-        </group>
-        <group name="ROCK">
-            <bookmark name="Psychobilly" url="http://79.111.119.111:9049/"/>
-            <bookmark name="Indie/Twee Pop" url="http://79.111.119.111:9031/"/>
-            <bookmark name="Folk Rock" url="http://79.111.14.76:9097/"/>
-            <bookmark name="Rock&amp;Roll" url="http://79.120.77.11:9041/"/>
-            <bookmark name="Hard Rock" url="http://79.120.77.11:9109/"/>
-            <bookmark name="Russian Rock/Bard Rock" url="http://79.120.77.11:9029/"/>
-            <bookmark name="Glam Rock/Metal" url="http://79.120.39.202:9055/"/>
-            <bookmark name="Instrumental Rock" url="http://79.120.39.202:9077/"/>
-            <bookmark name="Dream Pop" url="http://79.111.14.76:9039/"/>
-            <bookmark name="J-Rock" url="http://79.111.119.111:9067/"/>
-            <bookmark name="Jazz Rock" url="http://79.111.119.111:9007/"/>
-            <bookmark name="Progressive Rock" url="http://79.111.119.111:9121/"/>
-            <bookmark name="Surf Rock" url="http://79.111.119.111:9045/"/>
-            <bookmark name="Psychedelic Rock" url="http://79.111.119.111:9027/"/>
-            <bookmark name="Darkwave/Ethereal" url="http://79.111.14.76:9073/"/>
-            <bookmark name="Punk Rock" url="http://79.120.77.11:9043/"/>
-            <bookmark name="Grunge" url="http://79.120.39.202:9011/"/>
-            <bookmark name="Britpop" url="http://79.120.39.202:9041/"/>
-            <bookmark name="New Wave" url="http://79.120.39.202:9065/"/>
-            <bookmark name="Art Rock" url="http://79.120.39.202:9107/"/>
-            <bookmark name="Gothic Rock" url="http://79.111.14.76:9041/"/>
-            <bookmark name="Post Grunge" url="http://79.111.119.111:9073/"/>
-            <bookmark name="Garage Rock" url="http://79.111.119.111:9093/"/>
-            <bookmark name="Oi!/Street Punk" url="http://79.111.119.111:9125/"/>
-            <bookmark name="Rockabilly" url="http://79.111.14.76:9107/"/>
-            <bookmark name="Stoner Rock" url="http://79.111.119.111:9025/"/>
-            <bookmark name="AOR/Melodic Hard Rock" url="http://79.111.14.76:9051/"/>
-            <bookmark name="Rock Ballads" url="http://79.120.77.11:9059/"/>
-            <bookmark name="Blues Rock" url="http://79.120.39.202:9013/"/>
-            <bookmark name="Russian Punk Rock" url="http://79.120.77.11:9045/"/>
-            <bookmark name="Symphonic Rock" url="http://79.120.39.202:9067/"/>
-            <bookmark name="Southern Rock" url="http://79.111.14.76:9009/"/>
-            <bookmark name="Post Rock" url="http://79.111.14.76:9043/"/>
-            <bookmark name="Shoegazing" url="http://79.111.119.111:9077/"/>
-            <bookmark name="Neo-Progressive Rock" url="http://79.111.119.111:9095/"/>
-            <bookmark name="Space Rock" url="http://79.111.119.111:9035/"/>
-            <bookmark name="Russian Folk Rock" url="http://79.111.14.76:9099/"/>
-            <bookmark name="Alternative Rock" url="http://79.120.39.202:9037/"/>
-            <bookmark name="Pop Rock" url="http://79.120.77.11:9105/"/>
-            <bookmark name="Indie Rock" url="http://79.120.39.202:9033/"/>
-            <bookmark name="Classic Rock/Rock" url="http://79.120.77.11:9007/"/>
-            <bookmark name="Post Punk" url="http://79.120.39.202:9071/"/>
-            <bookmark name="Pop Punk" url="http://79.111.14.76:9035/"/>
-            <bookmark name="Country Rock" url="http://79.111.119.111:9041/"/>
-            <bookmark name="Krautrock" url="http://79.111.119.111:9089/"/>
-            <bookmark name="Indie Folk" url="http://79.111.14.76:9117/"/>
-        </group>
-        <group name="REGGAE / SKA">
-            <bookmark name="Reggae" url="http://79.120.39.202:9063/"/>
-            <bookmark name="Ska" url="http://79.111.119.111:9043/"/>
-            <bookmark name="Dub" url="http://79.111.14.76:9029/"/>
-            <bookmark name="Ska Punk/Core" url="http://79.111.119.111:9039/"/>
-            <bookmark name="Dancehall/Raggamuffin" url="http://79.111.14.76:9057/"/>
-            <bookmark name="Roots Reggae" url="http://79.111.119.111:9047/"/>
-        </group>
-        <group name="METAL / CORE">
-            <bookmark name="Pagan Metal" url="http://79.111.119.111:9069/"/>
-            <bookmark name="Neoclassical Metal" url="http://79.111.119.111:9033/"/>
-            <bookmark name="Symphonic Black Metal" url="http://79.111.119.111:9005/"/>
-            <bookmark name="Deathcore/Melodic Deathcore" url="http://79.111.14.76:9053/"/>
-            <bookmark name="Groove Metal" url="http://79.120.39.202:9045/"/>
-            <bookmark name="Symphonic Metal" url="http://79.120.77.11:9097/"/>
-            <bookmark name="Death Doom Metal" url="http://79.120.39.202:9007/"/>
-            <bookmark name="Dark Metal" url="http://79.111.119.111:9083/"/>
-            <bookmark name="Doom Meatl" url="http://79.111.14.76:9109/"/>
-            <bookmark name="Post Metal" url="http://79.120.39.202:9119/"/>
-            <bookmark name="Crust Punk/Neocrust" url="http://79.120.39.202:9123/"/>
-            <bookmark name="Progressive Black/Post-Black/Blackgaze" url="http://79.111.14.76:9131/"/>
-            <bookmark name="Black Metal" url="http://79.120.77.11:9003/"/>
-            <bookmark name="Death Metal" url="http://79.120.77.11:9083/"/>
-            <bookmark name="Progressive Death Metal" url="http://79.111.119.111:9001/"/>
-            <bookmark name="Nu Metal" url="http://79.111.14.76:9033/"/>
-            <bookmark name="Rapcore" url="http://79.120.39.202:9043/"/>
-            <bookmark name="Sludge Metal" url="http://79.120.77.11:9087/"/>
-            <bookmark name="Power Metal" url="http://79.120.77.11:9099/"/>
-            <bookmark name="Metalcore/Melodic Metalcore" url="http://79.120.39.202:9027/"/>
-            <bookmark name="Post Hardcore" url="http://79.111.119.111:9087/"/>
-            <bookmark name="Black Death Metal" url="http://79.111.14.76:9103/"/>
-            <bookmark name="Instrumental Metal" url="http://79.111.119.111:9113/"/>
-            <bookmark name="Grindcore" url="http://79.120.77.11:9089/"/>
-            <bookmark name="Avant-Garde Metal" url="http://79.111.14.76:9031/"/>
-            <bookmark name="Progressive Metal" url="http://79.120.77.11:9093/"/>
-            <bookmark name="Heavy Metal" url="http://79.111.14.76:9061/"/>
-            <bookmark name="Hardcore/Melodic Hardcore" url="http://79.111.14.76:9081/"/>
-            <bookmark name="Folk Metal" url="http://79.120.39.202:9097/"/>
-            <bookmark name="Gothic Metal" url="http://79.120.77.11:9037/"/>
-            <bookmark name="Stoner Metal" url="http://79.120.77.11:9089/"/>
-            <bookmark name="Thrash Metal/Crossover Thrash" url="http://79.120.77.11:9101/"/>
-            <bookmark name="Brutal/Slamming Brutal Death Metal" url="http://79.111.119.111:9075/"/>
-            <bookmark name="Speed Metal" url="http://79.111.119.111:9107/"/>
-            <bookmark name="Drone/Drone Doom Metal" url="http://79.120.39.202:9113/"/>
-            <bookmark name="Emocore/Screamo/Emo Violence" url="http://79.111.119.111:9119/"/>
-            <bookmark name="Funeral Doom Metal" url="http://79.120.77.11:9085/"/>
-            <bookmark name="Depressive Black Metal" url="http://79.111.119.111:9011/"/>
-            <bookmark name="Viking Metal" url="http://79.111.14.76:9077/"/>
-            <bookmark name="Industrial Metal/Cyber Metal" url="http://79.120.39.202:9075/"/>
-            <bookmark name="Alternative Metal" url="http://79.120.77.11:9035/"/>
-            <bookmark name="Melodic Death Metal" url="http://79.120.77.11:9091/"/>
-            <bookmark name="Technical Death Metal" url="http://79.120.77.11:9095/"/>
-            <bookmark name="Melodic Black Metal" url="http://79.111.119.111:9079/"/>
-            <bookmark name="Atmospheric/Ambient Black Metal/Dungeon Synth" url="http://79.120.39.202:9093/"/>
-            <bookmark name="Math Metal/Core/Djent" url="http://79.120.39.202:9115/"/>
-            <bookmark name="Female Vocal In Metal Music" url="http://79.111.14.76:9125/"/>
-        </group>
-        <group name="ELECTRONIC MUSIC">
-            <bookmark name="Uplifting Trance" url="http://79.111.119.111:9019/"/>
-            <bookmark name="Electro House" url="http://79.111.14.76:9075/"/>
-            <bookmark name="Hardstyle" url="http://79.111.14.76:9063/"/>
-            <bookmark name="Progressive Trance" url="http://79.120.39.202:9025/"/>
-            <bookmark name="Russian Club Dance" url="http://79.120.77.11:9033/"/>
-            <bookmark name="Goa Trance" url="http://79.120.39.202:9105/"/>
-            <bookmark name="Lo-Fi" url="http://79.111.14.76:9017/"/>
-            <bookmark name="Ambient Dub" url="http://79.111.14.76:9037/"/>
-            <bookmark name="Techno" url="http://79.120.77.11:9073/"/>
-            <bookmark name="Ambient" url="http://79.111.119.111:9023/"/>
-            <bookmark name="Electro" url="http://79.111.119.111:9063/"/>
-            <bookmark name="Spacesynth" url="http://79.120.39.202:9111/"/>
-            <bookmark name="Neurofunk/Technoid/Techstep" url="http://79.111.119.111:9117/"/>
-            <bookmark name="Drone Ambient" url="http://79.111.119.111:9135/"/>
-            <bookmark name="Electroclash" url="http://79.120.39.202:9129/"/>
-            <bookmark name="Euro House" url="http://79.111.119.111:9015/"/>
-            <bookmark name="Traditional Electronic" url="http://79.111.14.76:9069/"/>
-            <bookmark name="Dub Techno" url="http://79.120.39.202:9009/"/>
-            <bookmark name="Dream Trance" url="http://79.120.39.202:9029/"/>
-            <bookmark name="Deep House" url="http://79.120.39.202:9035/"/>
-            <bookmark name="IDM (Intelligent Dance Music)" url="http://79.111.14.76:9003/"/>
-            <bookmark name="Full On" url="http://79.111.14.76:9019/"/>
-            <bookmark name="Trance" url="http://79.120.77.11:9021/"/>
-            <bookmark name="Chill Out" url="http://79.111.14.76:9067/"/>
-            <bookmark name="Chiptune" url="http://79.111.119.111:9037/"/>
-            <bookmark name="Soulful House" url="http://79.111.119.111:9085/"/>
-            <bookmark name="Industrial" url="http://79.111.14.76:9119/"/>
-            <bookmark name="Downtempo" url="http://79.120.77.11:9113/"/>
-            <bookmark name="Grime" url="http://79.120.77.11:9125/"/>
-            <bookmark name="Progressive Psytrance" url="http://79.120.39.202:9131/"/>
-            <bookmark name="Minimal Tech House" url="http://79.111.119.111:9003/"/>
-            <bookmark name="Dark Electro" url="http://79.120.39.202:9091/"/>
-            <bookmark name="Hardcore Techno" url="http://79.120.39.202:9001/"/>
-            <bookmark name="Vocal Trance" url="http://79.120.39.202:9031/"/>
-            <bookmark name="Breakbeat/Big Beat" url="http://79.120.39.202:9051/"/>
-            <bookmark name="EBM (Electronic Body Music)" url="http://79.111.14.76:9005/"/>
-            <bookmark name="Psybient/Ambient Psytrance/Ambient Goa/Psychill/Psydub" url="http://79.111.14.76:9023/"/>
-            <bookmark name="New Age" url="http://79.120.77.11:9047/"/>
-            <bookmark name="Lounge" url="http://79.111.14.76:9059/"/>
-            <bookmark name="Dark/Neo/Apocalyptic Folk" url="http://79.111.119.111:9053/"/>
-            <bookmark name="Psytrance" url="http://79.111.119.111:9091/"/>
-            <bookmark name="Indie Electronic" url="http://79.111.119.111:9111/"/>
-            <bookmark name="Happy/UK Hardcore" url="http://79.120.77.11:9123/"/>
-            <bookmark name="Retrowave/Synthwave/Dreamwave" url="http://79.120.39.202:9125/"/>
-            <bookmark name="Glitch/Glitch-Hop" url="http://79.111.14.76:9129/"/>
-            <bookmark name="Space Music" url="http://79.111.119.111:9105/"/>
-            <bookmark name="Minimal Techno" url="http://79.120.39.202:9005/"/>
-            <bookmark name="Dubstep" url="http://79.120.39.202:9015/"/>
-            <bookmark name="Drum&amp;Bass" url="http://79.111.14.76:9065/"/>
-            <bookmark name="Industrial/Dark/Ritual Ambient" url="http://79.120.39.202:9095/"/>
-            <bookmark name="Trip-Hop" url="http://79.111.14.76:9013/"/>
-            <bookmark name="Synthpop/Electropop/Technopop" url="http://79.120.77.11:9103/"/>
-            <bookmark name="House" url="http://79.120.77.11:9069/"/>
-            <bookmark name="Progressive House" url="http://79.111.119.111:9021/"/>
-            <bookmark name="Dark Psytrance" url="http://79.111.119.111:9057/"/>
-            <bookmark name="Club Dance" url="http://79.111.119.111:9099/"/>
-            <bookmark name="Intelligent/Liquid Funk" url="http://79.111.119.111:9115/"/>
-            <bookmark name="Electro-Industrial" url="http://79.111.119.111:9127/"/>
-            <bookmark name="Futurepop" url="http://79.120.39.202:9127/"/>
-        </group>
-        <group name="RAP / HIP-HOP">
-            <bookmark name="Hip-Hop" url="http://79.120.77.11:9067/"/>
-            <bookmark name="West Coast/Gangsta Rap/G-Funk" url="http://79.120.39.202:9059/"/>
-            <bookmark name="Russian Rap" url="http://79.120.77.11:9023/"/>
-            <bookmark name="East Coast Rap" url="http://79.111.14.76:9111/"/>
-            <bookmark name="Rap" url="http://79.120.77.11:9031/"/>
-            <bookmark name="Underground Rap" url="http://79.111.14.76:9115/"/>
-            <bookmark name="Abstract Hip-Hop" url="http://79.111.14.76:9093/"/>
-            <bookmark name="Southern Rap/Hip-Hop/Crunk" url="http://79.111.119.111:9129/"/>
-        </group>
-        <group name="MISCELLANEOUS">
-            <bookmark name="Oldies" url="http://79.120.77.11:9107/"/>
-            <bookmark name="Modern Classical" url="http://79.120.39.202:9099/"/>
-            <bookmark name="Vocal" url="http://79.120.77.11:9063/"/>
-            <bookmark name="Piano" url="http://79.120.77.11:9009/"/>
-            <bookmark name="Experimental/Avant-Garde Music" url="http://79.111.119.111:9109/"/>
-            <bookmark name="Acoustic Guitar" url="http://79.120.39.202:9073/"/>
-            <bookmark name="Neoclassical Music" url="http://79.120.39.202:9101/"/>
-            <bookmark name="Sound Of Nature" url="http://79.111.14.76:9083/"/>
-            <bookmark name="Saxophone" url="http://79.120.77.11:9011/"/>
-            <bookmark name="Misc" url="http://79.120.77.11:9001/"/>
-            <bookmark name="Hammond Organ" url="http://79.120.39.202:9079/"/>
-            <bookmark name="Meditation Music" url="http://79.120.77.11:9081/"/>
-            <bookmark name="Ballroom Dance" url="http://79.111.14.76:9089/"/>
-            <bookmark name="Instrumental Music" url="http://79.120.77.11:9065/"/>
-            <bookmark name="Indian Cinema Music" url="http://79.120.39.202:9089/"/>
-            <bookmark name="Relaxation Music" url="http://79.120.39.202:9109/"/>
-            <bookmark name="Flute" url="http://79.111.14.76:9101/"/>
-            <bookmark name="Easy Listening" url="http://79.111.14.76:9015/"/>
-            <bookmark name="Romantic Music Collection" url="http://79.120.39.202:9121/"/>
+        <group name="Eska">
+            <bookmark name="Radio GO" url="http://waw03.ic1.scdn.smcloud.net/t032-1.mp3"/>
+            <bookmark name="Rock Polska" url="http://s5.deb1.scdn.smcloud.net/t008-1.mp3"/>
         </group>
     </group>
 </bookmarks>
