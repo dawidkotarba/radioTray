@@ -429,10 +429,10 @@
                 <bookmark name="Polskie Niezapomniane Przeboje" url="http://www.polskastacja.pl/play/aac_pnp.pls"/>
                 <bookmark name="Przeboje We Dwoje" url="http://www.polskastacja.pl/play/aac_love.pls"/>
                 <bookmark name="80s &amp; Italo Disco" url="http://www.polskastacja.pl/play/aac_italo.pls"/>
-                <bookmark name="Era DISCO" url="http://www.polskastacja.pl/play/aac_eradisco.pls"/>
+                <bookmark name="Era Disco" url="http://www.polskastacja.pl/play/aac_eradisco.pls"/>
                 <bookmark name="PARTY" url="http://www.polskastacja.pl/play/aac_party.pls"/>
             </group>
-            <group name="PolskaStacja - Czarna Muza">
+            <group name="PolskaStacja - Hip Hop/Soul">
                 <bookmark name="Soul" url="http://www.polskastacja.pl/play/aac_soul.pls"/>
                 <bookmark name="Polski Hip Hop" url="http://www.polskastacja.pl/play/aac_polskihh.pls"/>
                 <bookmark name="RnB" url="http://www.polskastacja.pl/play/aac_rnb.pls"/>
@@ -453,10 +453,10 @@
                 <bookmark name="HOT House" url="http://www.polskastacja.pl/play/aac_hothouse.pls"/>
                 <bookmark name="DJ TOP 50" url="http://www.polskastacja.pl/play/aac_djtop50.pls"/>
                 <bookmark name="Chillout" url="http://www.polskastacja.pl/play/aac_chillout.pls"/>
-                <bookmark name="PARTY" url="http://www.polskastacja.pl/play/aac_party.pls"/>
-                <bookmark name="TRAX (techno,trance)" url="http://www.polskastacja.pl/play/aac_trax.pls"/>
+                <bookmark name="Party" url="http://www.polskastacja.pl/play/aac_party.pls"/>
+                <bookmark name="Trax (techno,trance)" url="http://www.polskastacja.pl/play/aac_trax.pls"/>
                 <bookmark name="House &amp; Dance" url="http://www.polskastacja.pl/play/aac_house.pls"/>
-                <bookmark name="EDEN (New Age &amp; World Music)" url="http://www.polskastacja.pl/play/aac_eden.pls"/>
+                <bookmark name="Eden (New Age &amp; World Music)" url="http://www.polskastacja.pl/play/aac_eden.pls"/>
                 <bookmark name="Polski Power Dance" url="http://www.polskastacja.pl/play/aac_powerdance.pls"/>
                 <bookmark name="Trance Vocal" url="http://www.polskastacja.pl/play/aac_trancevocal.pls"/>
                 <bookmark name="Fashion" url="http://www.polskastacja.pl/play/aac_fashion.pls"/>
@@ -492,13 +492,12 @@
                 <bookmark name="Eurowizja" url="http://www.polskastacja.pl/play/aac_eurowizja.pls"/>
                 <bookmark name="Muzyka Francuska" url="http://www.polskastacja.pl/play/aac_francja.pls"/>
                 <bookmark name="Szanty" url="http://www.polskastacja.pl/play/aac_szanty.pls"/>
-                <bookmark name="ITALIA" url="http://www.polskastacja.pl/play/aac_italia.pls"/>
+                <bookmark name="Italia" url="http://www.polskastacja.pl/play/aac_italia.pls"/>
                 <bookmark name="Klasyka Muzyki Elektronicznej"
                           url="http://www.polskastacja.pl/play/aac_elektronika.pls"/>
                 <bookmark name="Country" url="http://www.polskastacja.pl/play/aac_country.pls"/>
                 <bookmark name="Dzieciom" url="http://www.polskastacja.pl/play/aac_dzieciom.pls"/>
                 <bookmark name="Latino" url="http://www.polskastacja.pl/play/aac_latino.pls"/>
-                <bookmark name="EDEN (New Age &amp; World Music)" url="http://www.polskastacja.pl/play/aac_eden.pls"/>
             </group>
         </group>
     </group>
